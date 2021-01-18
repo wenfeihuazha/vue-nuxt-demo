@@ -51,5 +51,5 @@ jobs:
           cd /root/vue-nuxt-demo
           wget https://github.com/wenfeihuazha/vue-nuxt-demo/releases/latest/download/release.tgz -O release.tgz
           tar zxvf release.tgz
-          npm install --production
+          cnpm install --production
           pm2 reload pm2.config.json
