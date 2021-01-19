@@ -1,9 +1,10 @@
--bui9bi
-----
+## 线上地址
+
+> http://nuxt.zhysry.cn/
 
 ## NuxtJS
 
-> 代码仓库地址：https://gitee.com/cloveryuan/realworld-nuxtjs
+> 代码仓库地址：https://github.com/wenfeihuazha/vue-nuxt-demo
 
 ### 一、Nuxt.js是什么
 
